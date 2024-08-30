@@ -1,6 +1,3 @@
-Here’s a `README.md` file for the Docker commands you provided:
-
-```markdown
 # Docker Node.js Application Setup
 
 This repository contains the necessary steps to containerize a Node.js application using Docker. The following instructions will guide you through creating a Docker image, pushing it to Docker Hub, and running it in a container.
